@@ -2,7 +2,7 @@
 
 Software Engineer @ KUBRA
 
-🖥 I am currently working on [Dotnet Stitch Function Template](https://github.com/iFactor/dotnet-stitchfunction-template) && [Legacy MyHQ](https://github.com/kubra-bp/pe-myhq-web-basecode)
+🖥 I am currently working on [Dotnet Stitch Function Template](https://github.com/iFactor/dotnet-stitchfunction-template) & [Legacy MyHQ](https://github.com/kubra-bp/pe-myhq-web-basecode)
 
 ## Things I Enjoy
 - Video Games 🎮
